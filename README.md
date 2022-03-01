@@ -28,6 +28,7 @@ Run a statistical analysis on the observed temperatures in Oahu for the months o
 ![june_summary_stats.png](https://github.com/saraegregg/Mod9_surfs_up/blob/main/images/june_summary_stats.png)
 
 **December Summary Statistics**
+
 ![dec_summary_stats.png](https://github.com/saraegregg/Mod9_surfs_up/blob/main/images/dec_summary_stats.png)
 
 The analysis clearly shows that
